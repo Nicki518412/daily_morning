@@ -18,7 +18,7 @@ if __name__ == '__main__':
     # weather_key = os.environ["WEATHER_KEY"]
     start_date = "2022-12-02"
     city = "510100"
-    birthday = "1993-03-13"
+    birthday = "03-13"
     app_id = "wx1621120a18807ad4"
     app_secret = "0246bb9e0d663f1cb226d7d5ac290730"
     user_id = "o-mpX6gKQHHu1ZdniUz1Iv9d_knY"
